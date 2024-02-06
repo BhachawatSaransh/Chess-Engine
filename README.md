@@ -8,7 +8,7 @@
 ## To run:
 
 
-	git clone https://github.com/Sarthakbh321/Haxaw-Chess.git  
+	git clone https://github.com/BhachawatSaransh/Haxaw-Chess.git  
 	cd Haxaw-Chess
 	pip3 install -r requirements.txt
 	python3 -m Diagonal.play
